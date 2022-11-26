@@ -29,7 +29,7 @@ Nodes:
     PanelType: "V2board" 
     ApiConfig:
       ApiHost: "https://ht4gvpn.pw"
-      ApiKey: "nht4gvpn.pw_ht4gvpn.pw"
+      ApiKey: "ht4gvpn.pw_ht4gvpn.pw"
       NodeID1: 1
       NodeType: V2ray 
       Timeout: 30 
