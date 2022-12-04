@@ -18,7 +18,7 @@ DnsConfigPath: # /etc/XrayR/dns.json
 InboundConfigPath: # /etc/XrayR/custom_inbound.json
 RouteConfigPath: # /etc/XrayR/route.json
 OutboundConfigPath: # /etc/XrayR/custom_outbound.json
-ConnetionConfig:
+ConnectionConfig:
   Handshake: 4 
   ConnIdle: 30 
   UplinkOnly: 2 
